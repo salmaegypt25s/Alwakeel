@@ -1,72 +1,88 @@
-# Guzel-Dukkan
-The Women’s Clothing Brand Project focusses om emphasizing a strong visual identity, developing compelling content strategies, and implementing targeted advertising campaigns to connect with modern women and build a loyal online community
-Team Members
- • Salma Ahmed Abdelsattar
- • Ahmed Mohamed Saeed
- • Rawan Abdelraouf Anas
- • Ahmed Nabil Hanafi
+Project Title
 
-⸻
+Exclusive distributor of car care products
 
-Instructor
-
-Dr. Ahmed Gamal
-
-⸻
+instructor:DR Ahmed Gamal
 
 Project Overview
 
-Guzel Dukkan is a women’s clothing brand project that focuses on establishing a strong and recognizable presence in the fashion market through strategic branding and digital marketing. The project emphasizes developing a clear brand positioning, creating compelling content strategies, and implementing targeted advertising campaigns to connect with modern women and build a loyal online community.
+This project focuses on developing a brand awareness and B2B marketing strategy for an exclusive distributor of automotive care products.
+Unlike traditional consumer-focused brands, this business primarily targets business clients such as car detailing centers, car washes, auto service providers, and dealerships.
 
-The main challenge addressed by this project is the difficulty new fashion brands face in standing out within a highly competitive online environment. Many emerging brands struggle to communicate their identity clearly and reach the right audience effectively. Through structured market research, audience analysis, and well-planned digital communication strategies, this project aims to position Guzel Dukkan as a relatable, stylish, and aspirational brand for contemporary women.
+The main challenge addressed is the low awareness and limited product knowledge among potential B2B clients, as well as strong competition from existing suppliers. Therefore, the strategy emphasizes educational content, credibility, and value demonstration rather than just direct selling.
 
-The project will be presented as a comprehensive brand and digital marketing strategy that includes market research findings, audience segmentation, content planning, and a detailed digital advertising campaign proposal.
-
-⸻
+Through market research and targeted communication, the project aims to position the brand as a professional, reliable, and high-quality partner for automotive care businesses.
 
 Project Objectives
- • Define a clear and strong brand positioning strategy for Guzel Dukkan.
- • Develop an effective content strategy tailored to modern women.
- • Design targeted advertising campaigns to increase brand awareness.
- • Build and grow a loyal and engaged online community.
 
-⸻
+• Increase brand and product awareness in the B2B automotive market.
+• Educate businesses about product benefits and usage.
+• Build trust and credibility as an exclusive distributor.
+• Generate qualified B2B leads and partnerships.
 
 Project Scope
- • Conduct market research and competitor analysis.
- • Identify and segment the target audience.
- • Develop a structured social media content strategy and posting plan.
- • Plan digital advertising campaigns (Facebook & Instagram).
- • Establish performance measurement metrics and engagement strategies.
 
+• Conduct B2B-focused market research and competitor analysis.
+• Identify and segment target businesses (car washes, detailing centers, dealerships).
+• Develop an educational content strategy.
+• Plan B2B-oriented advertising campaigns (Facebook, tiktok).
+• Define KPIs focused on awareness and lead generation.                                                                                             
+project plan(8 weeks)
+B2B Automotive Care Brand Awareness & Sales Funnel Strategy
 
-⸻
+Week 1 — Brand Understanding & Market Research
 
-Project Plan (5 Weeks)
+• Conduct deep research about the brand and its products.
+• Create the Brand Brief (identity, values, positioning).
+• Perform SWOT analysis (Strengths, Weaknesses, Opportunities, Threats).
+• Analyze competitors in the B2B automotive care market.
+• Define initial target business segments.
 
-Week 1 — Research & Market Analysis
- • Conduct research on the women’s fashion industry.
- • Analyze competitors and identify market gaps.
- • Define the target audience profile and customer personas.
+Week 2 — Content Planning & Script Development
 
-Week 2 — Brand Positioning Strategy
- • Define the brand mission, vision, and values.
- • Establish tone of voice and communication style.
- • Determine the unique selling proposition (USP).
+• Build a structured content calendar.
+• Define content pillars (education, product benefits, demonstrations).
+• Write scripts for Reels and short-form videos.
+• Plan messaging aligned with B2B awareness goals.
 
-Week 3 — Content Strategy Development
- • Develop content pillars aligned with the brand identity.
- • Create content themes targeting modern women.
- • Prepare a structured monthly content calendar.
+Week 3 — Content Production & Publishing
 
-Week 4 — Advertising Campaign Planning
- • Set clear campaign objectives.
- • Define the advertising target audience.
- • Develop campaign concept and key messages.
- • Plan budget allocation and key performance indicators (KPIs).
+• Produce and edit short-form videos (Reels).
+• Start publishing awareness-focused content.
+• Focus on educating businesses about product value.
+• Maintain consistent posting schedule.
 
-Week 5 — Final Presentation & Evaluation
- • Compile all project components into a complete portfolio.
- • Prepare professional presentation slides.
- • Review expected results and growth strategy.
- • Final submission and presentation
+Week 4 — Awareness Advertising Campaign (Phase 1)
+
+• Launch paid ads focused on brand awareness.
+• Target B2B audience (car washes, detailing centers, workshops).
+• Promote educational and product introduction content.
+• Measure reach, impressions, and engagement.
+
+Week 5 — Awareness Expansion (Phase 2)
+
+• Continue awareness campaigns with optimized targeting.
+• Retarget users who engaged with previous content.
+• Increase brand visibility in the market.
+• Strengthen message consistency across platforms.
+
+Week 6 — Testimonials & Trust Building
+
+• Publish customer testimonials and success stories.
+• Showcase real results from using the products.
+• Build credibility and trust with B2B clients.
+• Use social proof to support decision-making.
+
+Week 7 — Sales Activation (Phase 1)
+
+• Launch conversion-focused campaigns.
+• Introduce offers for business clients.
+• Start direct lead generation campaigns.
+• Focus on inquiries and business partnerships.
+
+Week 8 — Sales Optimization & Scaling (Phase 2)
+
+• Optimize ad performance based on results.
+• Scale successful campaigns.
+• Strengthen lead conversion strategy.
+• Evaluate overall funnel performance (Awareness → Sales)
